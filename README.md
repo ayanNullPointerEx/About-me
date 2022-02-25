@@ -23,3 +23,5 @@ like - Java 8, Spring Boot, Aws/Azure Cloud, Docker, Kubernetes, etc..
  * SVM and MLP Based Segmentation and Recognition of Text from Scene Images Through an Effective Binarization Scheme
  * A Dynamic Identification Method for Robotic Soccer Game
 
+## Presentations
+* [Basic of Cloud Computing](https://github.com/ayanNullPointerEx/CloudComputingPPT/raw/main/Basics_of_Cloud_Computing.pptx)
