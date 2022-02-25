@@ -1,6 +1,6 @@
 # About me
 
-![AyanNullPointerEx](https://github.com/ayanNullPointerEx/About-me/blob/main/images/my_image.jpg)
+<img src="https://github.com/ayanNullPointerEx/About-me/blob/main/images/my_image.jpg" width="200" height="200">
 
 ## Contact Details
  * [LinkedIn link](https://in.linkedin.com/in/ayan-banerjee-4805007a)
