@@ -9,7 +9,7 @@ like - Java 8, Spring Boot, Aws/Azure Cloud, Docker, Kubernetes, etc..
  * [LinkedIn](https://in.linkedin.com/in/ayan-banerjee-4805007a)
  * [Facebook](https://www.facebook.com/ayan.banerjee.581)
  * Phone: (+91) 9088-246290
- * Mail: ayanbanerjee.stcetgmail.com 
+ * Mail: ayanbanerjee.stcet@gmail.com / ayanbanerjee.jobs@gmail.com 
 
 ## Projects
 
